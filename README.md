@@ -1,2 +1,2 @@
 # Matematicas Para Data Science: Probabilidad
-Curso de Probabilidad para Data Science de Platzi
+Scripts y elementos teóricos vistos en el Curso de Probabilidad para Data Science de Platzi
